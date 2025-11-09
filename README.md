@@ -2,6 +2,8 @@
 
 Simple expense tracker built with Python and SQLite. This is the first version that later evolved into CLI and Django App.
 
+![View](Screenshots/ET1.png)
+
 --- 
 
 ## Technologies & Requirements 
@@ -43,6 +45,15 @@ python main.py
 ## Usage 
 
 Once the repository is in a folder inside your computer, run 'main.py' and use your keyboard, pressing the number that goes with the action you want to do. 
+
+![View](Screenshots/ET2.png)
+![View](Screenshots/ET3.png)
+![View](Screenshots/ET4.png)
+![View](Screenshots/ET5.png)
+![View](Screenshots/ET6.png)
+![View](Screenshots/ET7.png)
+![View](Screenshots/ET8.png)
+
 
 --- 
 
